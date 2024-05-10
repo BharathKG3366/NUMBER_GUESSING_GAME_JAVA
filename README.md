@@ -32,7 +32,7 @@ This Java program implements a simple number guessing game. Here's how it works:
      - `MAX_ROUNDS`: Total number of rounds in the game.
 
 7. **Running the Program:**
-   - Compile the Java file (`Task2.java`).
+   - Compile the Java file (`NumberGuessingGame.java`).
    - Run the compiled Java program.
 
 8. **Contributing:**
