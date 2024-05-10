@@ -34,6 +34,3 @@ This Java program implements a simple number guessing game. Here's how it works:
 7. **Running the Program:**
    - Compile the Java file (`NumberGuessingGame.java`).
    - Run the compiled Java program.
-
-8. **Contributing:**
-   - Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are welcomed and appreciated!
